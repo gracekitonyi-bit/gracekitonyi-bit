@@ -1,25 +1,38 @@
-# 🎓 My AIMS Rwanda Journey
+# Hi there 👋, I'm Grace Kitonyi  
 
-Welcome to my GitHub! 🚀  
-This repository documents my journey as a **Mastercard Foundation Scholar at AIMS Rwanda**, where I am pursuing advanced studies in **Mathematical Sciences, Data Science, and Scientific Computing**.
-
----
-
-## 📌 About This Repository
-This repo serves as a central place to share:
-- 🧮 Mathematical modelling projects  
-- 💻 Python, R, and Data Science notebooks  
-- 📊 Research on applied mathematics in real-world problems  
-- 📝 Notes, exercises, and learning resources  
+🎓 Mastercard Foundation Scholar @ AIMS Rwanda  
+⚡ Applied Mathematics | 📊 Data Science | 🔐 Cybersecurity | 🧮 Mathematical Modeling  
+🌍 Exploring AI-driven solutions for **Health** & **Security**  
 
 ---
 
-## 🔑 Key Areas of Focus
-- **Mathematical Modelling** (health, finance, and environment)  
-- **Machine Learning & Data Science**  
-- **Scientific Computing (Python, R, Julia, MATLAB)**  
-- **Cybersecurity and Applied Mathematics**  
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-kitonyi-88143429b)  
+📧 Email: [grace.kitonyi@aims.ac.rw](mailto:grace.kitonyi@aims.ac.rw)  
 
 ---
 
-## 📂 Repository Structure
+## 🚀 Featured Projects
+- 🔐 [**WebGuard**](https://github.com/gracekitonyi-bit/WebGuard) – Automated web vulnerability scanner & penetration tester.  
+- 📊 **Mathematical Modelling of Diabetes Progression** – Exploring control strategies using applied mathematics.  
+- 📝 [Daily Reports](https://github.com/gracekitonyi-bit/gracekitonyi-bit-daily-reports) – Tracking my progress at AIMS Rwanda.  
+
+---
+
+## ⚡ Skills & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
+![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?logo=wolfram-mathematica&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracekitonyi-bit&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracekitonyi-bit&layout=compact&theme=radical)
+
+---
+
+⭐️ *Thanks for visiting my GitHub! Let’s connect and collaborate 🚀*
