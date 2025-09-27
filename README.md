@@ -31,7 +31,10 @@
 
 ## 📊 GitHub Stats
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracekitonyi-bit&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracekitonyi-bit&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracekitonyi-bit&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gracekitonyi-bit&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=gracekitonyi-bit&theme=radical&row=1&column=6)
+
 
 ---
 
