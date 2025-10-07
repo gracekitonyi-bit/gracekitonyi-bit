@@ -42,10 +42,9 @@ An **interactive web tool** for testing password strength with visual animations
 
 ### 📝 Daily Reports  
 My personal **daily reflections and progress journal** during my journey at AIMS Rwanda.  
-📔 [View Reports](https://gracekitonyi-bit.github.io/gracekitonyi-bit-daily-reports/)
+📔 [View Reports](https://github.com/gracekitonyi-bit/gracekitonyi-bit-daily-reports/)
 
 ---
-
 ## ⚡ Skills & Tools  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
