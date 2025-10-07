@@ -8,21 +8,41 @@
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-kitonyi-88143429b)  
-📧 **Email:** [grace.kitonyi@aims.ac.rw](mailto:grace.kitonyi@aims.ac.rw)
+📧 **Email:** [grace.kitonyi@aims.ac.rw](mailto:grace.kitonyi@aims.ac.rw)  
+🌐 **Portfolio:** [Visit My Portfolio Website](https://gracekitonyi-bit.github.io/my---portfolio-/)
 
 ---
 
-## 🚀 My Featured Projects  
+## 🚀 Featured Projects  
 
-| 🌐 Project | 🔍 Description | 🧭 Link |
-|------------|----------------|---------|
-| 🔐 **WebGuard** | Automated web vulnerability scanner & penetration tester based on OWASP Top 20. | [View Project](https://gracekitonyi-bit.github.io/vulnerability-Scanner-and-Pentester/) |
-| 🧮 **Mathematical Modelling of Diabetes Progression** | Simulating diabetes dynamics & control strategies using applied math. | — |
-| 💻 **Pentest Lab Backend** | Backend for WebGuard — built for scalable penetration testing automation. | [GitHub Repo](https://github.com/gracekitonyi-bit/pentest-lab-backend) |
-| 🧩 **Cipher Game** | Fun cryptography-based cipher solving web game. | [Play Now](https://gracekitonyi-bit.github.io/cipher-game/) |
-| 🔑 **Password Strength Checker** | Interactive web tool to test password strength with animations. | [Try It](https://gracekitonyi-bit.github.io/password-strength-checker/) |
-| 📔 **Daily Reports** | My daily reports and reflections at AIMS Rwanda. | [Visit Page](https://gracekitonyi-bit.github.io/gracekitonyi-bit-daily-reports/) |
-| 🌸 **Personal Portfolio** | My professional portfolio website — showcasing my work and achievements. | [Explore](https://gracekitonyi-bit.github.io/my---portfolio-/) |
+### 🔐 WebGuard  
+An automated **web vulnerability scanner and penetration tester** based on OWASP Top 20 vulnerabilities.  
+🔗 [View Project](https://gracekitonyi-bit.github.io/vulnerability-Scanner-and-Pentester/)  
+💻 [GitHub Repository](https://github.com/gracekitonyi-bit/pentest-lab-backend)
+
+---
+
+### 🧮 Mathematical Modelling of Diabetes Progression  
+A research-based project exploring **diabetes dynamics and control strategies** using applied mathematical models.  
+📘 Focus: Epidemiological modeling and optimization of treatment strategies.
+
+---
+
+### 🧩 Cipher Game  
+A fun **cryptography-based web game** that challenges users to solve secret messages and ciphers.  
+🎮 [Play the Game](https://gracekitonyi-bit.github.io/cipher-game/)
+
+---
+
+### 🔑 Password Strength Checker  
+An **interactive web tool** for testing password strength with visual animations and feedback.  
+🧠 [Try It Here](https://gracekitonyi-bit.github.io/password-strength-checker/)
+
+---
+
+### 📝 Daily Reports  
+My personal **daily reflections and progress journal** during my journey at AIMS Rwanda.  
+📔 [View Reports](https://gracekitonyi-bit.github.io/gracekitonyi-bit-daily-reports/)
 
 ---
 
