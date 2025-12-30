@@ -1,8 +1,6 @@
-# 👋 Hi there, I'm Grace Kitonyi  
+# 👋 Hi, I'm Grace Kitonyi
 
-🎓 **Mastercard Foundation Scholar @ AIMS Rwanda**  
-⚡ *Applied Mathematics | Data Science | Cybersecurity | Mathematical Modeling*  
-🌍 Passionate about **AI-driven solutions for Health & Security**
+I am an applied mathematician and MSc candidate in Mathematical Epidemiology at the African Institute for Mathematical Sciences (AIMS), Rwanda, and a Mastercard Foundation Scholar. My work focuses on applying mathematical modelling, data analytics, and cybersecurity principles to real-world challenges in health systems and digital transformation.
 
 ---
 
@@ -15,10 +13,12 @@
 
 ## 🚀 Featured Projects  
 
-### 🔐 WebGuard  
-An automated **web vulnerability scanner and penetration tester** based on OWASP Top 20 vulnerabilities.  
-🔗 [View Project](https://gracekitonyi-bit.github.io/vulnerability-Scanner-and-Pentester/)  
-💻 [GitHub Repository](https://github.com/gracekitonyi-bit/pentest-lab-backend)
+🔐 **WebGuard – Automated Web Vulnerability Scanner**
+
+An automated web vulnerability scanner based on OWASP Top 20 vulnerabilities.  
+**Focus:** Security assessment, risk identification, and mitigation strategies.  
+**Tools:** Python, OWASP standards, web security testing.
+
 
 ---
 
@@ -45,18 +45,40 @@ My personal **daily reflections and progress journal** during my journey at AIMS
 📔 [View Reports](https://github.com/gracekitonyi-bit/gracekitonyi-bit-daily-reports/)
 
 ---
-## ⚡ Skills & Tools  
+### 🛠 Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
-![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?logo=wolfram-mathematica&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+**Programming & Scientific Computing**  
+- Python (NumPy, Pandas, SciPy), R (tidyverse), MATLAB, Mathematica  
+- Numerical analysis, algorithm implementation, and simulation workflows  
+
+**Data Analysis, Visualisation & Reporting**  
+- Data cleaning, transformation, and exploratory data analysis  
+- Statistical analysis and hypothesis testing  
+- Dashboards and interactive visualisations (Power BI, Streamlit, Matplotlib, ggplot2)  
+- Data-driven reporting for research and humanitarian programmes  
+
+**Mathematical & Epidemiological Modelling**  
+- Deterministic and stochastic models of infectious and non-communicable diseases  
+- Ordinary differential equations (ODEs) and compartmental models (SIR-type)  
+- Model calibration, sensitivity analysis, and scenario simulation  
+- Optimisation of intervention and control strategies  
+
+**Artificial Intelligence & Machine Learning (Applied)**  
+- Predictive modelling and feature engineering  
+- Model evaluation and interpretation  
+- AI-driven analytics for health and social impact applications  
+
+**Cybersecurity & Digital Risk Analysis**  
+- Web vulnerability assessment based on OWASP Top vulnerabilities  
+- Threat identification, risk analysis, and mitigation strategies  
+- Cybersecurity awareness and digital safety training  
+
+**Software, Tools & Systems**  
+- Version control and collaborative workflows (Git, GitHub)  
+- Linux-based development environments  
+- Reproducible research and technical documentation (LaTeX, Jupyter Notebooks)  
+- Web technologies for data-driven applications (HTML, CSS, JavaScript)
+
 
 ---
 
