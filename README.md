@@ -29,11 +29,12 @@ Impact: Automates vulnerability detection, reduces manual auditing time, and enh
 
 ---
 
-### 🧮 Mathematical Modelling of Diabetes Progression  
-A research project exploring diabetes dynamics and control strategies using applied mathematical and epidemiological models.
-Focus: Epidemiological modeling, scenario simulation, and optimization of treatment strategies
-Tools: Python, R, MATLAB, ODEs, compartmental models
-Impact: Provides insights into optimal intervention strategies, supports evidence-based decision-making, and contributes to better diabetes management
+### 🧮 Mathematical Modelling of Diabetes Progression
+
+A research project exploring **diabetes dynamics** and **control strategies** using **applied mathematical and epidemiological models**.  
+**Focus:** Epidemiological modeling, scenario simulation, optimization of treatment strategies  
+**Tools:** Python, R, MATLAB, ODEs, compartmental models  
+**Impact:** Provides insights into **optimal intervention strategies**, supports **evidence-based decision-making**, and contributes to **better diabetes management**
 ---
 
 ### 🧩 Cipher Game
