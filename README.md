@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Grace Kitonyi
 
-I am an applied mathematician and MSc candidate in Mathematical Epidemiology at the African Institute for Mathematical Sciences (AIMS), Rwanda, and a Mastercard Foundation Scholar. My work focuses on applying mathematical modelling, data analytics, and cybersecurity principles to real-world challenges in health systems and digital transformation.
+I am an applied mathematician and MSc candidate in Mathematical Epidemiology at the African Institute for Mathematical Sciences (AIMS), Rwanda, and a Mastercard Foundation Scholar. My research focuses on applied mathematical modelling of biological and population systems, including epidemiology, infectious disease dynamics, and ecological processes, complemented by data analytics and the integration of cybersecurity principles to strengthen health systems and support digital transformation.
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-kitonyi-88143429b)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/gracekitonyi-bit)  
 📧 **Email:** [grace.kitonyi@aims.ac.rw](mailto:grace.kitonyi@aims.ac.rw)  
-🌐 **Portfolio:** [Visit My Portfolio Website](https://gracekitonyi-bit.github.io/my---portfolio-/)
+🌐 **Portfolio:** [Visit My Portfolio Website](https://gracekitonyi-bit.github.io/)  
+📱 **Phone/WhatsApp:**  
+- [WhatsApp +254706684060](https://wa.me/254706684060) | [Call +254706684060](tel:+254706684060)  
+- [WhatsApp +250796605142](https://wa.me/250796605142) | [Call +250796605142](tel:+250796605142)
 
 ---
 
