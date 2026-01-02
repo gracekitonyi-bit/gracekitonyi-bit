@@ -35,6 +35,7 @@ A research project exploring **diabetes dynamics** and **control strategies** us
 **Focus:** Epidemiological modeling, scenario simulation, optimization of treatment strategies  
 **Tools:** Python, R, MATLAB, ODEs, compartmental models  
 **Impact:** Provides insights into **optimal intervention strategies**, supports **evidence-based decision-making**, and contributes to **better diabetes management**
+
 ---
 
 ### 🧩 Cipher Game
