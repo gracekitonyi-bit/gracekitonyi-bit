@@ -8,6 +8,7 @@ I am an applied mathematician and MSc candidate in Mathematical Epidemiology at 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/gracekitonyi-bit)  
 📧 **Email:** [grace.kitonyi@aims.ac.rw](mailto:grace.kitonyi@aims.ac.rw)  
 🌐 **Portfolio:** [Visit My Portfolio Website](https://gracekitonyi-bit.github.io/my---portfolio-/)  
+📊 **RPubs:** [View My Statistical Reports](https://rpubs.com/Grace_k)
 📱 **Phone/WhatsApp:**  
 - [WhatsApp +254706684060](https://wa.me/254706684060) | [Call +254706684060](tel:+254706684060)  
 - [Call/SMS +250796605142](tel:+250796605142)
@@ -66,6 +67,25 @@ A personal **daily reflections and progress journal** documenting my learning jo
 **Impact:** Captures insights, tracks personal growth, and provides a **transparent record of learning and development**  
 📔 [View Reports](https://github.com/gracekitonyi-bit/gracekitonyi-bit-daily-reports/)
 
+
+---
+
+### 📈 Parametric Survival Analysis — Rats Dataset
+
+A full survival analysis project using the **rats dataset** in R,
+applying parametric and semi-parametric models to analyse
+time-to-tumour onset in a carcinogenic treatment study.
+
+**Focus:** Survival analysis, parametric modelling, frailty models
+**Tools:** R, flexsurv, survminer, ggplot2, kableExtra
+**Methods:** Kaplan–Meier, Cox regression, Weibull AFT,
+frailty model, AIC model selection
+**Key result:** Weibull model best fit (AIC = 578.21),
+treated rats have 2× the tumour hazard of controls
+
+📄 [View Full Report on RPubs](https://rpubs.com/Grace_k/rats-survival-analysis)
+💻 [View Code on GitHub](https://github.com/walternyamutamba-svg/rats-survival-analysis)
+```
 ---
 ### 🛠 Skills & Tools
 
